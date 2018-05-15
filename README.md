@@ -1,2 +1,2 @@
-# python_labi
-College project
+# Лабораторные по Python
+Задания для освоения основного функционала языка Python3
